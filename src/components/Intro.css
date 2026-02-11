@@ -119,6 +119,8 @@ p {
     font-size: 1.2rem;
     opacity: 0.8;
     text-align: center;
+    animation: fadeIn 0.8s ease forwards;
+
 }
 
 button {
