@@ -22,7 +22,6 @@
 }
 
 .letter-screen {
-    position: fixed;
     inset: 0;
     background: black;
     display: flex;
