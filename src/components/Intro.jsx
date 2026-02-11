@@ -108,11 +108,11 @@ export default function Intro() {
     },
     {
       img: img12,
-      note: "Göl sessizdi, - 15.09.2024"
+      note: "Göl sessizdi, gökyüzü şahidimizdi. - 15.09.2024"
     },
     {
       img: img13,
-      note: "Gökyüzü şahidimizdi. Biz mutluyduk...\n\nGölbaşı - 15.09.2024"
+      note: "Biz mutluyduk...\n\nGölbaşı - 15.09.2024"
     },
     {
       img: img14,
