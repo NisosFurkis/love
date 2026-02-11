@@ -76,11 +76,11 @@ export default function Intro() {
     },
     {
       img: img4,
-      note: "Seninle bekleyeceksem eğer, hiç bir şeyin yolunu gözlemem.\n\nYıldırım Kule Otobüs Durağı - 16.07.2024"
+      note: "Seninle beklemek, varacağım yerden daha güzel. - 16.07.2024"
     },
     {
       img: img5,
-      note: "Duyguların döküldüğü, her şeyin başladığı park.\n\nBahçelievler Eser Parkı - 19.07.2024"
+      note: "Duyguların dile geldiği, her şeyin başlangıcı.\n\nBahçelievler Eser Parkı - 19.07.2024"
     },
     {
       img: img6,
@@ -88,7 +88,7 @@ export default function Intro() {
     },
     {
       img: img7,
-      note: "Elini tutup yürüdüğüm her yol, cennete giden bir yol gibi...\n\nBahçelievler Metro - 09.08.2024"
+      note: "Elini tutunca nereye gittiğimiz önemli değil.\n\nBahçelievler Metro - 09.08.2024"
     },
     {
       img: img8,
@@ -100,7 +100,7 @@ export default function Intro() {
     },
     {
       img: img10,
-      note: "Senin doğduğun gün, benim yeniden doğduğum gün. \n\nYıldırım Kule - 28.08.2024"
+      note: "Senin doğduğun gün, hayatımın en güzel tesadüfü başladı. \n\nYıldırım Kule - 28.08.2024"
     },
     {
       img: img11,
@@ -108,11 +108,11 @@ export default function Intro() {
     },
     {
       img: img12,
-      note: "Gökyüzü, deniz (göl) ve aşk. Başka neye gerek...\n\nGölbaşı - 15.09.2024"
+      note: "Göl sessizdi, - 15.09.2024"
     },
     {
       img: img13,
-      note: "\n\nGölbaşı - 15.09.2024"
+      note: "Gökyüzü şahidimizdi. Biz mutluyduk...\n\nGölbaşı - 15.09.2024"
     },
     {
       img: img14,
@@ -128,7 +128,7 @@ export default function Intro() {
     },
     {
       img: img17,
-      note: ":) \n\nGöksu Parkı - 29.09.2024"
+      note: "Elimi bırakmadın, korku yerini gülüşe bıraktı :) \n\nGöksu Parkı - 29.09.2024"
     },
     {
       img: img18,
@@ -136,7 +136,7 @@ export default function Intro() {
     },
     {
       img: img19,
-      note: "Manzara mı? Tabi ki yanımda :)\n\nAnkara Gençlik Parkı - 06.10.2024"
+      note: "Şehir aşağıdaydı, biz yukarıda. Ve ben sadece sana bakıyordum..\n\nAnkara Gençlik Parkı - 06.10.2024"
     },
     {
       img: img20,
@@ -144,7 +144,7 @@ export default function Intro() {
     },
     {
       img: img21,
-      note: "\n\nAnkara Gençlik Parkı - 06.10.2024"
+      note: "O gün tek derdimiz daha çok gülmekti :)\n\nAnkara Gençlik Parkı - 06.10.2024"
     },
     {
       img: img22,
@@ -152,11 +152,11 @@ export default function Intro() {
     },
     {
       img: img23,
-      note: "Yüzüm gülüyor ama içim buruk.\n\nPark Sitesi - 16.11.2024"
+      note: "Mesafe girdi aramıza, ama kalbimiz yer değiştirmedi..\n\nPark Sitesi - 16.11.2024"
     },
     {
       img: img24,
-      note: "\n\nPark Sitesi - 16.11.2024"
+      note: "O an, dünya sadece ikimiz için durdu...\n\nPark Sitesi - 16.11.2024"
     },
     {
       img: img25,
@@ -176,7 +176,7 @@ export default function Intro() {
     },
     {
       img: img29,
-      note: "Ben zaten eridim.\n\nYalın Konseri - 15.02.2025"
+      note: "Gözlerin bana her şeyi anlattı o gece...\n\nYalın Konseri - 15.02.2025"
     },
     {
       img: img30,
@@ -252,7 +252,7 @@ export default function Intro() {
     },
     {
       type: "letter",
-      text: "Kim haklı kim suçlu umurumda değil. Beraber çıktığımız bu yolda sonuç olarak ayrıldık. Ben ilk defa seninle tamamlandım bu hayatta. Hayatıma girdiğin günden beri sensiz bir gelecek düşünmedim. Bütün hayallerim, bütün umutlarım hepsi sendin. Sen dahil herkes bana ne yapmam gerektiğini söylüyor. Arama, yazma, hayatına devam et, unut. Kendi kararlarımı kendim vereceğim. Hikayemizi tamamlamak senin iradende."
+      text: "Kimin haklı kimin haksız olduğunun önemsiz olduğu noktadayız. Hayat keşkelerle yaşanamayacak kadar kısa. Ben ilk defa seninle tamamlandım bu hayatta. Hayatıma girdiğin günden beri sensiz bir gelecek düşünmedim. Bütün hayallerim, bütün umutlarım hepsi sendin. Hayatının merkezi ola, sarılmak için gün saydığın insana 'nasılsın?' diyememek. Bu gerçekten zor bir süreç. Ya birbirimize daha sıkı bağlanacağızya da birbirimizden tamamen kopacağız. Seni kelimelerle ikna edemeyeceğimi biliyorum. Sensiz bir hayatta ne yapacağımı bilmiyorum ama senli bir hayatta neler yapabileceğimi çok iyi biliyorum. Hikayemizi tamamlamak senin ellerinde..."
     },    
     {
     img: img48,
@@ -312,7 +312,7 @@ export default function Intro() {
               <button
                 className="bottom-button"
                 onClick={() => setIndex(index + 1)}
-              >Devam Etmek Senin Elinde</button>
+              >Devam Et</button>
             </div>
           ) : (
             <div>
