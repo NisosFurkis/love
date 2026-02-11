@@ -15,9 +15,7 @@ Gökhan Türkmen Konseri - 06.06.2024`},{img:d,note:`Sana Ankara'yı anlattığ�
 
 Esertepe Vadisi - 24.06.2024`},{img:f,note:`Resmi olarak ilk pikniğimiz :)
 
-Dikmen Vadisi - 05.07.2024`},{img:p,note:`Seninle bekleyeceksem eğer, hiç bir şeyin yolunu gözlemem.
-
-Yıldırım Kule Otobüs Durağı - 16.07.2024`},{img:m,note:`Duyguların döküldüğü, her şeyin başladığı park.
+Dikmen Vadisi - 05.07.2024`},{img:p,note:`Seninle beklemek, varacağım yerden daha güzel. - 16.07.2024`},{img:m,note:`Duyguların dile geldiği, her şeyin başlangıcı.
 
 Bahçelievler Eser Parkı - 19.07.2024`},{img:h,note:`Bir yıldız gökte kayıp giderken,
 Islak bir yolda yalnız yürürken,
@@ -26,18 +24,16 @@ Sanki hiç gitmemiş hep var gibi,
 Bir sırrı herkesten saklar gibi,
 Sessizce sokulup ağlar gibi, yanımdasın...
 
-Karsu Konseri - 26.07.2024`},{img:g,note:`Elini tutup yürüdüğüm her yol, cennete giden bir yol gibi...
+Karsu Konseri - 26.07.2024`},{img:g,note:`Elini tutunca nereye gittiğimiz önemli değil.
 
 Bahçelievler Metro - 09.08.2024`},{img:_,note:`Seninle yapılan piknik; bir çocuğun sevinci, bir babanın gururu gibi...
 
-Mogan Gölü - 17.08.2024`},{img:v,note:`Mogan Gölü - 17.08.2024`},{img:y,note:`Senin doğduğun gün, benim yeniden doğduğum gün. 
+Mogan Gölü - 17.08.2024`},{img:v,note:`Mogan Gölü - 17.08.2024`},{img:y,note:`Senin doğduğun gün, hayatımın en güzel tesadüfü başladı. 
 
 Yıldırım Kule - 28.08.2024`},{img:b,note:`Bir gülüşü var, bin derde deva desen.
 Bir bakışı var, dünyalar ona bedel.
 
-Ankamall AVM - 14.09.2024`},{img:x,note:`Gökyüzü, deniz (göl) ve aşk. Başka neye gerek...
-
-Gölbaşı - 15.09.2024`},{img:ee,note:`
+Ankamall AVM - 14.09.2024`},{img:x,note:`Göl sessizdi, - 15.09.2024`},{img:ee,note:`Gökyüzü şahidimizdi. Biz mutluyduk...
 
 Gölbaşı - 15.09.2024`},{img:S,note:`Mutluluk en karanlık zamanlarda bile bulunabilir, yeter ki insan ışığı açmayı hatırlasın... ~ Albus Dumbledore
 
@@ -45,21 +41,21 @@ Bahçelievler - 22.09.2024`},{img:C,note:`
 
 Bahçelievler - 22.09.2024`},{img:te,note:`Çocuklar gibi eğlendiğimiz bir gün daha..
 
-Göksu Parkı - 29.09.2024`},{img:ne,note:`:) 
+Göksu Parkı - 29.09.2024`},{img:ne,note:`Elimi bırakmadın, korku yerini gülüşe bıraktı :) 
 
 Göksu Parkı - 29.09.2024`},{img:re,note:`
 
-Göksu Parkı - 29.09.2024`},{img:w,note:`Manzara mı? Tabi ki yanımda :)
+Göksu Parkı - 29.09.2024`},{img:w,note:`Şehir aşağıdaydı, biz yukarıda. Ve ben sadece sana bakıyordum..
 
 Ankara Gençlik Parkı - 06.10.2024`},{img:ie,note:`
 
-Ankara Gençlik Parkı - 06.10.2024`},{img:ae,note:`
+Ankara Gençlik Parkı - 06.10.2024`},{img:ae,note:`O gün tek derdimiz daha çok gülmekti :)
 
 Ankara Gençlik Parkı - 06.10.2024`},{img:oe,note:`Başarılar seninle birlikte güzel.
 
-Park Sitesi - 27.10.2024`},{img:se,note:`Yüzüm gülüyor ama içim buruk.
+Park Sitesi - 27.10.2024`},{img:se,note:`Mesafe girdi aramıza, ama kalbimiz yer değiştirmedi..
 
-Park Sitesi - 16.11.2024`},{img:ce,note:`
+Park Sitesi - 16.11.2024`},{img:ce,note:`O an, dünya sadece ikimiz için durdu...
 
 Park Sitesi - 16.11.2024`},{img:le,note:`Hasretin, özlemin ilk bitişi...
 
@@ -72,7 +68,7 @@ Niye bilmiyorum ama ben sadece senle mutluyum.
 Ah şu gönül gözünden görmek dedikleri,
 Seni her halinle seviyorum...
 
-Yalın Konseri - 15.02.2025`},{img:de,note:`Ben zaten eridim.
+Yalın Konseri - 15.02.2025`},{img:de,note:`Gözlerin bana her şeyi anlattı o gece...
 
 Yalın Konseri - 15.02.2025`},{img:fe,note:`Bir gülüşüne ömrümü veririm.
 
@@ -110,4 +106,4 @@ Firuze Cafe - 06.12.2025`},{img:Ee,note:`Bir anıda, bir fotoğrafta, bir müzik
 
 Firuze Cafe - 06.12.2025`},{img:De,note:`Her zaman var olacağız.
 
-Firuze Cafe - 06.12.2025`},{type:`letter`,text:`Kim haklı kim suçlu umurumda değil. Beraber çıktığımız bu yolda sonuç olarak ayrıldık. Ben ilk defa seninle tamamlandım bu hayatta. Hayatıma girdiğin günden beri sensiz bir gelecek düşünmedim. Bütün hayallerim, bütün umutlarım hepsi sendin. Sen dahil herkes bana ne yapmam gerektiğini söylüyor. Arama, yazma, hayatına devam et, unut. Kendi kararlarımı kendim vereceğim. Hikayemizi tamamlamak senin iradende.`},{img:Oe,note:``},{img:ke,note:``},{img:Ae,note:``},{img:je,note:``},{img:Me,note:``},{img:Ne,note:``},{img:Pe,note:``},{img:Fe,note:``},{img:Ie,note:`Bu kadar hüzünlü olmazsın belki, belki daha fazla gülersin...`}];return(0,k.jsxs)(`div`,{className:`intro`,children:[!e&&(0,k.jsxs)(`div`,{className:`intro-center`,children:[(0,k.jsx)(`h1`,{className:`poem`,children:`Ve yaprak dala dedi ki; Beni unutma hatırla yeşil günlerimizi...`}),(0,k.jsx)(`button`,{onClick:()=>t(!0),children:`Devam Et`})]}),e&&(0,k.jsx)(`div`,{children:i[n].type===`letter`?(0,k.jsxs)(`div`,{className:`letter-screen`,children:[(0,k.jsx)(`div`,{className:`letter`,children:(0,k.jsx)(`p`,{children:i[n].text})}),(0,k.jsx)(`button`,{className:`bottom-button`,onClick:()=>r(n+1),children:`Devam Etmek Senin Elinde`})]}):(0,k.jsxs)(`div`,{children:[(0,k.jsxs)(`div`,{className:`image-box`,children:[(0,k.jsx)(`img`,{src:i[n].img,alt:`Anı`}),(0,k.jsx)(`small`,{className:`poem`,children:i[n].note})]},n),n<i.length-1&&(0,k.jsx)(`button`,{className:`bottom-button`,onClick:()=>r(n+1),children:`Devam Et`})]})})]})}function ze(){return(0,k.jsx)(Re,{})}var Be=ze;(0,c.createRoot)(document.getElementById(`root`)).render((0,k.jsx)(l.StrictMode,{children:(0,k.jsx)(Be,{})}));
+Firuze Cafe - 06.12.2025`},{type:`letter`,text:`Kimin haklı kimin haksız olduğunun önemsiz olduğu noktadayız. Hayat keşkelerle yaşanamayacak kadar kısa. Ben ilk defa seninle tamamlandım bu hayatta. Hayatıma girdiğin günden beri sensiz bir gelecek düşünmedim. Bütün hayallerim, bütün umutlarım hepsi sendin. Hayatının merkezi ola, sarılmak için gün saydığın insana 'nasılsın?' diyememek. Bu gerçekten zor bir süreç. Ya birbirimize daha sıkı bağlanacağızya da birbirimizden tamamen kopacağız. Seni kelimelerle ikna edemeyeceğimi biliyorum. Sensiz bir hayatta ne yapacağımı bilmiyorum ama senli bir hayatta neler yapabileceğimi çok iyi biliyorum. Hikayemizi tamamlamak senin ellerinde...`},{img:Oe,note:``},{img:ke,note:``},{img:Ae,note:``},{img:je,note:``},{img:Me,note:``},{img:Ne,note:``},{img:Pe,note:``},{img:Fe,note:``},{img:Ie,note:`Bu kadar hüzünlü olmazsın belki, belki daha fazla gülersin...`}];return(0,k.jsxs)(`div`,{className:`intro`,children:[!e&&(0,k.jsxs)(`div`,{className:`intro-center`,children:[(0,k.jsx)(`h1`,{className:`poem`,children:`Ve yaprak dala dedi ki; Beni unutma hatırla yeşil günlerimizi...`}),(0,k.jsx)(`button`,{onClick:()=>t(!0),children:`Devam Et`})]}),e&&(0,k.jsx)(`div`,{children:i[n].type===`letter`?(0,k.jsxs)(`div`,{className:`letter-screen`,children:[(0,k.jsx)(`div`,{className:`letter`,children:(0,k.jsx)(`p`,{children:i[n].text})}),(0,k.jsx)(`button`,{className:`bottom-button`,onClick:()=>r(n+1),children:`Devam Et`})]}):(0,k.jsxs)(`div`,{children:[(0,k.jsxs)(`div`,{className:`image-box`,children:[(0,k.jsx)(`img`,{src:i[n].img,alt:`Anı`}),(0,k.jsx)(`small`,{className:`poem`,children:i[n].note})]},n),n<i.length-1&&(0,k.jsx)(`button`,{className:`bottom-button`,onClick:()=>r(n+1),children:`Devam Et`})]})})]})}function ze(){return(0,k.jsx)(Re,{})}var Be=ze;(0,c.createRoot)(document.getElementById(`root`)).render((0,k.jsx)(l.StrictMode,{children:(0,k.jsx)(Be,{})}));
