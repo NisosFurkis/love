@@ -33,7 +33,7 @@ Mogan Gölü - 17.08.2024`},{img:v,note:`Mogan Gölü - 17.08.2024`},{img:y,note
 Yıldırım Kule - 28.08.2024`},{img:b,note:`Bir gülüşü var, bin derde deva desen.
 Bir bakışı var, dünyalar ona bedel.
 
-Ankamall AVM - 14.09.2024`},{img:x,note:`Göl sessizdi, - 15.09.2024`},{img:ee,note:`Gökyüzü şahidimizdi. Biz mutluyduk...
+Ankamall AVM - 14.09.2024`},{img:x,note:`Göl sessizdi, gökyüzü şahidimizdi. - 15.09.2024`},{img:ee,note:`Biz mutluyduk...
 
 Gölbaşı - 15.09.2024`},{img:S,note:`Mutluluk en karanlık zamanlarda bile bulunabilir, yeter ki insan ışığı açmayı hatırlasın... ~ Albus Dumbledore
 
